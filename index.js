@@ -4,5 +4,5 @@ function login(username) {
 };
 
 function logout() {
-    console.log('logout');
+    console.log('로그아웃');
 }
